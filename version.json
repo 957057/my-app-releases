@@ -1,6 +1,6 @@
 {
   "version": "1.10",
-  "url": "https://github.com/957057/my-app-releases/tag/v1.10/app-release.apk",
+  "url": "https://github.com/957057/my-app-releases/releases/download/v1.10/app-release.apk",
   "notes": "1. 新增自动更新功能\n2. 优化用户体验",
   "force_update": false
 }
