@@ -1,6 +1,6 @@
 {
-  "version": "1.11",
+  "version": "1.12",
   "url": "https://github.com/957057/my-app-releases/releases/download/latest/app-release.apk",
-  "notes": "1. 新增自动更新功能\n2. 优化用户体验",
+  "notes": "1. 修复启动后不进入主界面BUG\n",
   "force_update": false
 }
