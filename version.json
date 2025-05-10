@@ -1,6 +1,6 @@
 {
-  "version": "1.12",
+  "version": "1.13",
   "url": "https://github.com/957057/my-app-releases/releases/download/latest/app-release.apk",
-  "notes": "1. 修复启动后不进入主界面BUG\n",
+  "notes": "1.增加销点时间\n",
   "force_update": false
 }
